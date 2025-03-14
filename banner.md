@@ -4,6 +4,7 @@ sudu su -
 ```bash
 vim /etc/ssh/sshd_config
 ```
+# We need to write this part
 ```bash
 Banner /etc/issue.net
 ```
