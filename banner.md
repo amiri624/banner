@@ -28,3 +28,7 @@ vim /etc/issue.net
 #        to the appropriate law enforcement agencies.           #
 #################################################################
 ```
+```bash
+chmod 644 /etc/issue.net
+``
+
