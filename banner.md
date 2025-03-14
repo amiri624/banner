@@ -30,5 +30,5 @@ vim /etc/issue.net
 ```
 ```bash
 chmod 644 /etc/issue.net
-``
+```
 
