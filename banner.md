@@ -12,7 +12,11 @@ Banner /etc/issue.net
 vim /etc/issue.net
 ```
 ```bash
-
+###############################################################
+#                  This is a private server!                  #
+#       All connections are monitored and recorded.           #
+#  Disconnect IMMEDIATELY if you are not an authorized user!  #
+###############################################################
 ```
 # OR
 ```bash
