@@ -1,4 +1,4 @@
-# banner
+## banner
 ```bash
 sudu su -
 ```
