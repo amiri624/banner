@@ -2,7 +2,6 @@
 
 
 
-
 ## banner
 ```bash
 sudu su -
