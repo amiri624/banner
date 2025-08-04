@@ -42,7 +42,11 @@ vim /etc/issue.net
 chmod 644 /etc/issue.net
 ```
 ## Example Playbook
-
+```bash
+- hosts: servers
+  roles:
+     - { role: hudecof.banners }
+```
 ### Default ISSUE file
 ```bash
 ********************************************************************
