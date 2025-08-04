@@ -41,4 +41,17 @@ vim /etc/issue.net
 ```bash
 chmod 644 /etc/issue.net
 ```
+```bash
+********************************************************************
+*                                                                  *
+* This system is for the use of authorized users only.  Usage of   *
+* this system may be monitored and recorded by system personnel.   *
+*                                                                  *
+* Anyone using this system expressly consents to such monitoring   *
+* and is advised that if such monitoring reveals possible          *
+* evidence of criminal activity, system personnel may provide the  *
+* evidence from such monitoring to law enforcement officials.      *
+*                                                                  *
+********************************************************************
+```
 
