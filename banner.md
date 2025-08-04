@@ -55,4 +55,23 @@ chmod 644 /etc/issue.net
 *                                                                  *
 ********************************************************************
 ```
+### Default MOTD file
+```bash
+**********************************************************************
+Hostname:             server
+Distribution:         Debian stretch (9.3)
 
+Processors:       1
+Memory Installed: 0.5GB
+Memory Swapfile:  1.0GB
+Mounts:
+  Mount: /dev/sda1 (/) (7.7GB)
+
+IPv4 default address:	192.168.93.109 (eth0)
+
+Kernel:              4.9.0-4-amd64
+Virtualization Role: guest
+Virtualization Type: kvm
+
+******************************** 2017-12-18 15:23:57.595459 **********
+```
