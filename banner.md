@@ -41,6 +41,8 @@ vim /etc/issue.net
 ```bash
 chmod 644 /etc/issue.net
 ```
+## Example Playbook
+
 ### Default ISSUE file
 ```bash
 ********************************************************************
